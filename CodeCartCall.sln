@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CodeCartCall", "..\..\..\Dropbox\CodeCart\code\CodeCartCall\", "{D60924A4-40FE-492A-97E8-214AC36CD5A9}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv2.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_57063"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Dropbox\CodeCart\code\CodeCartCall\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57063\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_57063"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Dropbox\CodeCart\code\CodeCartCall\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57063\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "57063"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D60924A4-40FE-492A-97E8-214AC36CD5A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D60924A4-40FE-492A-97E8-214AC36CD5A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82781FF4-8856-4E72-82EA-46BDCC318470}
+	EndGlobalSection
+EndGlobal
